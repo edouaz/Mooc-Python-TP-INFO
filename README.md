@@ -7,28 +7,6 @@ Ce dépôt contient des **explications personnelles** et des **ressources pédag
 ### Important :
 Ce dépôt est strictement destiné à un usage **éducatif personnel**. Les réponses ou solutions ne doivent **en aucun cas** être copiées et soumises telles quelles dans les évaluations. Toute forme de triche ou de plagiat est formellement interdite.
 
-## À propos du cours
-
-- **Durée** : 15 semaines
-- **Effort** : Environ 120 heures (8 heures par semaine)
-- **Langue** : Français
-- **Période** : 02 septembre 2024 au 07 juin 2025
-
-### Ce que vous allez apprendre :
-1. Installer Python 3 et un environnement de développement (ex : PyCharm)
-2. Manipuler des variables, expressions arithmétiques et instructions de contrôle
-3. Définir et utiliser des fonctions
-4. Gérer des structures de données (n-uplets, listes, ensembles, dictionnaires)
-5. Créer et manipuler des fichiers textes
-6. Réaliser un projet de programmation (exemple : un "escape game" simple)
-
-### Évaluation :
-L'évaluation est basée sur :
-- **Quiz** (102 points)
-- **Exercices autonomes validés avec UpyLaB** (150 points)
-- **Projet individuel évalué par les pairs** (48 points)
-
-Un badge de réussite est délivré si vous obtenez une note supérieure à 50 %.
 
 ## Politique d'utilisation
 
