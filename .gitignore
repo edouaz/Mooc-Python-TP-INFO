@@ -6,9 +6,6 @@ venv/
 Lib/site-packages/
 lib/python3.10/site-packages/
 
-# Ignorer les fichiers temporaires
-temp*.py
-
 # Ignorer les fichiers compilés Python
 __pycache__/
 *.pyc
@@ -16,3 +13,6 @@ __pycache__/
 # Ignorer les fichiers de configuration
 .vscode/
 
+# Ignorer d'autres répertoires ou fichiers inutiles 
+bin/
+lib/
