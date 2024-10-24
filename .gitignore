@@ -1,6 +1,5 @@
 # Ignorer les environnements virtuels
-.venv/
-venv/
+
 
 # Ignorer les dossiers de packages
 Lib/site-packages/
